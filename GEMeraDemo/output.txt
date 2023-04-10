@@ -1,0 +1,98 @@
+/home/wenhan/anaconda3/envs/tf-gpu/lib/python3.9/site-packages/numpy/lib/npyio.py:518: VisibleDeprecationWarning: Creating an ndarray from ragged nested sequences (which is a list-or-tuple of lists-or-tuples-or ndarrays with different lengths or shapes) is deprecated. If you meant to do this, you must specify 'dtype=object' when creating the ndarray.
+  arr = np.asanyarray(arr)
+scDimsExact[0] = 0.000000, scDims[0] = -5.229835
+scDimsExact[1] = 0.125000, scDims[1] = -1.851608
+scDimsExact[2] = 1.000000, scDims[2] = -1.851608
+scDimsExact[3] = 1.125000, scDims[3] = -1.779207
+scDimsExact[4] = 1.125000, scDims[4] = -1.779207
+scDimsExact[5] = 2.000000, scDims[5] = -0.891230
+scDimsExact[6] = 2.000000, scDims[6] = -0.527202
+scDimsExact[7] = 2.000000, scDims[7] = -0.295717
+scDimsExact[8] = 2.000000, scDims[8] = -0.295717
+scDimsExact[9] = 2.125000, scDims[9] = -0.062462
+Fusion coefficients: Exact_C(ep,sg,sg) = 0.500000, MERA_C(ep,sg,sg) = -3.112163
+Iteration: 1 of 2000, Energy: -590729.756020, Err: -5.907285e+05, Mag: 2.689132e+05
+Iteration: 101 of 2000, Energy: -1.264927, Err: 8.312087e-03, Mag: 6.410031e-01
+Iteration: 201 of 2000, Energy: -1.264366, Err: 8.874028e-03, Mag: 5.869583e-01
+Iteration: 301 of 2000, Energy: -1.265115, Err: 8.124311e-03, Mag: 5.903181e-01
+Iteration: 401 of 2000, Energy: -1.265230, Err: 8.010002e-03, Mag: 5.882566e-01
+Iteration: 501 of 2000, Energy: -1.265150, Err: 8.089598e-03, Mag: 5.849325e-01
+Iteration: 601 of 2000, Energy: -1.265056, Err: 8.183754e-03, Mag: 5.816353e-01
+Iteration: 701 of 2000, Energy: -1.264964, Err: 8.275138e-03, Mag: 5.784646e-01
+Iteration: 801 of 2000, Energy: -1.264875, Err: 8.364767e-03, Mag: 5.753281e-01
+Iteration: 901 of 2000, Energy: -1.264784, Err: 8.455777e-03, Mag: 5.721023e-01
+Iteration: 1001 of 2000, Energy: -1.264687, Err: 8.552052e-03, Mag: 5.686295e-01
+Iteration: 1101 of 2000, Energy: -1.264581, Err: 8.658502e-03, Mag: 5.646807e-01
+Iteration: 1201 of 2000, Energy: -1.264458, Err: 8.781628e-03, Mag: 5.598773e-01
+Iteration: 1301 of 2000, Energy: -1.264308, Err: 8.931431e-03, Mag: 5.534957e-01
+Iteration: 1401 of 2000, Energy: -1.264115, Err: 9.125006e-03, Mag: 5.438937e-01
+Iteration: 1501 of 2000, Energy: -1.263912, Err: 9.327861e-03, Mag: 5.266055e-01
+Iteration: 1601 of 2000, Energy: -1.264933, Err: 8.306235e-03, Mag: 4.906258e-01
+Iteration: 1701 of 2000, Energy: -1.265288, Err: 7.951737e-03, Mag: 4.408278e-01
+Iteration: 1801 of 2000, Energy: -1.264975, Err: 8.264104e-03, Mag: 3.615564e-01
+Iteration: 1901 of 2000, Energy: -1.266759, Err: 6.480483e-03, Mag: 2.227316e-01
+scDimsExact[0] = 0.000000, scDims[0] = 0.000000
+scDimsExact[1] = 0.125000, scDims[1] = 0.169949
+scDimsExact[2] = 1.000000, scDims[2] = 1.347949
+scDimsExact[3] = 1.125000, scDims[3] = 1.347949
+scDimsExact[4] = 1.125000, scDims[4] = 1.702070
+scDimsExact[5] = 2.000000, scDims[5] = 2.011773
+scDimsExact[6] = 2.000000, scDims[6] = 2.011773
+scDimsExact[7] = 2.000000, scDims[7] = 2.474283
+scDimsExact[8] = 2.000000, scDims[8] = 2.474283
+scDimsExact[9] = 2.125000, scDims[9] = 2.419316
+Fusion coefficients: Exact_C(ep,sg,sg) = 0.500000, MERA_C(ep,sg,sg) = 0.283024
+Iteration: 1 of 1800, Energy: -1.271977, Err: 1.262639e-03, Mag: 6.835731e-02
+Iteration: 101 of 1800, Energy: -1.273192, Err: 4.725019e-05, Mag: 1.350250e-02
+Iteration: 201 of 1800, Energy: -1.273223, Err: 1.682535e-05, Mag: 6.990714e-03
+Iteration: 301 of 1800, Energy: -1.273230, Err: 9.707624e-06, Mag: 4.521601e-03
+Iteration: 401 of 1800, Energy: -1.273233, Err: 6.876749e-06, Mag: 3.190237e-03
+Iteration: 501 of 1800, Energy: -1.273234, Err: 5.559048e-06, Mag: 2.464432e-03
+Iteration: 601 of 1800, Energy: -1.273235, Err: 4.739174e-06, Mag: 2.041312e-03
+Iteration: 701 of 1800, Energy: -1.273236, Err: 3.549046e-06, Mag: 1.728633e-03
+Iteration: 801 of 1800, Energy: -1.273236, Err: 3.104252e-06, Mag: 1.533328e-03
+Iteration: 901 of 1800, Energy: -1.273237, Err: 2.797920e-06, Mag: 1.391588e-03
+Iteration: 1001 of 1800, Energy: -1.273237, Err: 2.550208e-06, Mag: 1.277358e-03
+Iteration: 1101 of 1800, Energy: -1.273237, Err: 2.342995e-06, Mag: 1.173171e-03
+Iteration: 1201 of 1800, Energy: -1.273237, Err: 2.172182e-06, Mag: 1.070667e-03
+Iteration: 1301 of 1800, Energy: -1.273238, Err: 2.032220e-06, Mag: 9.690494e-04
+Iteration: 1401 of 1800, Energy: -1.273238, Err: 1.917027e-06, Mag: 8.706535e-04
+Iteration: 1501 of 1800, Energy: -1.273238, Err: 1.821592e-06, Mag: 7.778796e-04
+Iteration: 1601 of 1800, Energy: -1.273238, Err: 1.741981e-06, Mag: 6.920561e-04
+Iteration: 1701 of 1800, Energy: -1.273238, Err: 1.675073e-06, Mag: 6.135701e-04
+scDimsExact[0] = 0.000000, scDims[0] = -0.000000
+scDimsExact[1] = 0.125000, scDims[1] = 0.124970
+scDimsExact[2] = 1.000000, scDims[2] = 0.997084
+scDimsExact[3] = 1.125000, scDims[3] = 1.091568
+scDimsExact[4] = 1.125000, scDims[4] = 1.151238
+scDimsExact[5] = 2.000000, scDims[5] = 1.804219
+scDimsExact[6] = 2.000000, scDims[6] = 1.878610
+scDimsExact[7] = 2.000000, scDims[7] = 1.952437
+scDimsExact[8] = 2.000000, scDims[8] = 2.010422
+scDimsExact[9] = 2.125000, scDims[9] = 2.096903
+Fusion coefficients: Exact_C(ep,sg,sg) = 0.500000, MERA_C(ep,sg,sg) = 0.529213
+Iteration: 1 of 1400, Energy: -1.273238, Err: 1.618881e-06, Mag: 5.441690e-04
+Iteration: 101 of 1400, Energy: -1.273239, Err: 3.514148e-07, Mag: 4.150761e-04
+Iteration: 201 of 1400, Energy: -1.273239, Err: 2.715814e-07, Mag: 3.342408e-04
+Iteration: 301 of 1400, Energy: -1.273239, Err: 2.382315e-07, Mag: 2.753496e-04
+Iteration: 401 of 1400, Energy: -1.273239, Err: 2.187111e-07, Mag: 2.270735e-04
+Iteration: 501 of 1400, Energy: -1.273239, Err: 2.052674e-07, Mag: 1.857813e-04
+Iteration: 601 of 1400, Energy: -1.273239, Err: 1.951030e-07, Mag: 1.495829e-04
+Iteration: 701 of 1400, Energy: -1.273239, Err: 1.869560e-07, Mag: 1.175370e-04
+Iteration: 801 of 1400, Energy: -1.273239, Err: 1.801819e-07, Mag: 8.908462e-05
+Iteration: 901 of 1400, Energy: -1.273239, Err: 1.744151e-07, Mag: 6.381077e-05
+Iteration: 1001 of 1400, Energy: -1.273239, Err: 1.694265e-07, Mag: 4.137423e-05
+Iteration: 1101 of 1400, Energy: -1.273239, Err: 1.650595e-07, Mag: 2.148377e-05
+Iteration: 1201 of 1400, Energy: -1.273239, Err: 1.611999e-07, Mag: 3.884263e-06
+Iteration: 1301 of 1400, Energy: -1.273239, Err: 1.577604e-07, Mag: -1.165384e-05
+scDimsExact[0] = 0.000000, scDims[0] = 0.000000
+scDimsExact[1] = 0.125000, scDims[1] = 0.124933
+scDimsExact[2] = 1.000000, scDims[2] = 1.004972
+scDimsExact[3] = 1.125000, scDims[3] = 1.119838
+scDimsExact[4] = 1.125000, scDims[4] = 1.129653
+scDimsExact[5] = 2.000000, scDims[5] = 1.762742
+scDimsExact[6] = 2.000000, scDims[6] = 1.855841
+scDimsExact[7] = 2.000000, scDims[7] = 1.948813
+scDimsExact[8] = 2.000000, scDims[8] = 1.964791
+scDimsExact[9] = 2.125000, scDims[9] = 2.081681
+Fusion coefficients: Exact_C(ep,sg,sg) = 0.500000, MERA_C(ep,sg,sg) = -0.500839
