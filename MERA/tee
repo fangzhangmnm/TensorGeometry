@@ -1,0 +1,4 @@
+J=1.000000, g=1.000000
+Exact energy=-1.273240
+sweep using the following options: 
+{'reflection_symmetry': True, 'nLayers': 2, 'max_dim_mid': 4, 'max_dim': 6, 'nIterRhoTop': 4, 'nSweeps': 2000, 'iSweep': 0, 'freeze_u_before': 10}
